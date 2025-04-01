@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm AlexandaJerry, a postgraduate student studying phonetics.
+I'm Alexander, a postgraduate student studying phonetics.
+
+Major:
+Linguistics with a specialisation in phonetics
 
 Specialized Interest:
 - Speech production and perception of children and the elderly
