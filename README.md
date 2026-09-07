@@ -13,4 +13,4 @@ Specialized Interest:
 - 🌱 I’m currently learning python and deep learning.
 - 👯 I’m interested in Praat, R, and automatic construction of speech corpora.
 
-[![AlexandaJerry's GitHub stats](https://github-stats-extended.vercel.app/api?username=AlexandaJerry&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended))
+[![AlexandaJerry's GitHub stats](https://github-stats-extended.vercel.app/api?username=AlexandaJerry&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
